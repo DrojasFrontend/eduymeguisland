@@ -1,4 +1,4 @@
-<section class="section-3">
+<section class="section-3" id="boda">
     <img class="img" src="<?php echo IMG_BASE . 'img-4.webp'?>" alt="">
     <div class="section-3__container">
         <div class="box">

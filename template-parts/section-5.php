@@ -78,7 +78,7 @@ $placesCartagena = [
     ]
 ];
 ?>
-<section class="section-5">
+<section class="section-5" id="cartagena">
     <div class="section-5__bckg">
         <div class="container">
             <div class="section-5__content">

@@ -29,7 +29,7 @@ $gallery = [
                     </div>
                 <?php } ?>
             </div>
-            <div class="section-4__info">
+            <div class="section-4__info" id="historia">
                 <div class="space space--50"></div>
                 <h2 class="heading--58 color--A98417">Nuestra Historia de Amor</h2>
                 <p class="font--baca heading--64 color--333" style="line-height: 64px">our love story</p>
@@ -48,7 +48,7 @@ $gallery = [
 
                 <div class="space space--50"></div>
 
-                <h2 class="heading--64 color--A98417">EVENTOS</h2>
+                <h2 class="heading--64 color--A98417" id="eventos">EVENTOS</h2>
                 <p class="font--baca heading--64 color--333" style="line-height: 64px">events</p>
             </div>
 
