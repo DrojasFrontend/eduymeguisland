@@ -108,7 +108,7 @@ $placesCartagena = [
                         <div class="space space--20"></div>
                         <div class="line line--medium"></div>
                         <div class="space space--50"></div>
-                        <a href="#" class="button button--primary button--medium">VER</a>
+                        <a href="https://www.instagram.com/nami.restaurante/" target="_blank" class="button button--primary button--medium">VER</a>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@ $placesCartagena = [
                         <div class="space space--20"></div>
                         <div class="line line--medium"></div>
                         <div class="space space--50"></div>
-                        <a href="#" class="button button--primary button--medium">VER</a>
+                        <a href="https://www.instagram.com/restaurantelacasadesocorro/?hl=es" target="_blank" class="button button--primary button--medium">VER</a>
                     </div>
                 </div>
             </div>

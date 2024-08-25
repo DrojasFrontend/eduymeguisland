@@ -3,7 +3,7 @@
         <div class="sectionRsvp__content">
             <h2 class="heading--128 color--A98417">R.S.V.P.</h2>
             <div class="space space--20"></div>
-            <p class="font--bosque heading--20 color--666 uppercase">CELEBRA COn NOSOTROS!</p>
+            <p class="font--bosque heading--20 color--666 uppercase" style="letter-spacing: 4px;">CELEBRA COn NOSOTROS!</p>
             <div class="space space--30"></div>
             <p class="font--bosque heading--14 color--333" style="-webkit-text-stroke-width: inherit;">Por favor conﬁrmar asistencia antes 11 de NOVIEMBRE del 2024</p>
             <div class="space space--10"></div>
