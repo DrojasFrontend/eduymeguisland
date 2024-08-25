@@ -1,0 +1,10 @@
+$cultureregular-font-path: "../../font/cultureregular" !default;
+
+@font-face {
+  font-family: "CultureRegular";
+  src: url("#{$cultureregular-font-path}/CultureRegular.woff2") format("woff2"),
+    url("#{$cultureregular-font-path}/CultureRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

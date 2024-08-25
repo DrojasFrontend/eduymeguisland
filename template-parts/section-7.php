@@ -1,0 +1,19 @@
+<section class="sectionMapa">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d76359.73445245072!2d-75.54972508184463!3d10.40019611990673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef625e7ae9d1351%3A0xb161392e033f26ca!2sCartagena%20de%20Indias%2C%20Provincia%20de%20Cartagena%2C%20Bol%C3%ADvar!5e1!3m2!1ses!2sco!4v1724592194830!5m2!1ses!2sco" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div class="map__copy">
+        <div class="map__icon">
+            <img src="<?php echo IMG_BASE . 'icon-map.svg'?>" alt="">
+        </div>
+        <div class="map__center">
+            <p class="font--bosque heading--24 color--4E6585" style="-webkit-text-stroke-width: inherit;">RAFAEL NUÑEZ</p>
+            <p class="font--bosque heading--14 color--959595" style="-webkit-text-stroke-width: inherit;">AEROPUERTO INTERNACIONAL</p>
+            <p class="font--bosque heading--14 color--959595" style="-webkit-text-stroke-width: inherit;" style="margin-top: -8px">Cartagena, Colombia.</p>
+        </div>
+        <p class="font--bosque heading--14 color--666" style="-webkit-text-stroke-width: inherit;">
+        Vuelo a Cartagena, en la costa caribeña. Jet Blue, American Airlines, Avianca, Spirit Air y Copa Airlines operan vuelos directos al aeropuerto Rafael Núñez. El aeropuerto está a 10 minutos en taxi del casco antiguo. Hay servicios de taxi autorizados las 24 horas. La tarifa a Getsemaní cuesta alrededor de $14.000 cop. A la zona hotelera del Centro Histórico (Ciudad Amurallada) unos $14.000 cop y a la zona de Bocagrande cuesta $20.000 cop. Normalmente $1 USD equivale a $4.000 cop. 
+        </p>
+    </div>
+</section>
+<div class="footer">
+    <p class="heading--30 color--FFF" style="-webkit-text-stroke-width: 0.25px;">#DREAMISLAND</p>
+</div>

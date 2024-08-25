@@ -1,0 +1,11 @@
+$bonvivantregular-font-path: "../../font/bonvivantregular" !default;
+
+@font-face {
+  font-family: "BonVivant";
+  src: url("#{$bonvivantregular-font-path}/BonVivant-Regular.woff2") format("woff2"),
+    url("#{$bonvivantregular-font-path}/BonVivant-Regular.woff") format("woff"),
+    url("#{$bonvivantregular-font-path}/BonVivant-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
