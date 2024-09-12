@@ -39,7 +39,6 @@
       </div>
     </div>
   </section>
-
   <section class="modal" style="display: none" data-modal="modal-3">
     <div class="modal__wrapper">
       <div class="modal__body">
