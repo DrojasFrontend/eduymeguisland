@@ -16,7 +16,7 @@
             <h2 class="heading--36 color--A98417 stroke--width-5">VESTIMENTA</h2>
             <p class="font--baca heading--40 color--333">dress code</p>
             <div class="space space--10"></div>
-            <img class="" src="<?php echo IMG_BASE . 'dress-code.png'?>" alt="">
+            <img class="" src="<?php echo IMG_BASE . 'vestimenta-1.png'?>" alt="">
             <div class="space space--10"></div>
             <button type="button" class="button button--primary button--center" data-open-modal="modal-1">BLACK TIE</button>
 

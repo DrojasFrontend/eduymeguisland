@@ -50,12 +50,17 @@ $(window).scroll(function () {
 
 $botonToggleText.click(function () {
   var moreContent = $(this).siblings(".more-content");
-  moreContent.slideToggle(); 
+  var $button = $(this); // Guardar la referencia del botón
 
-  // Cambiar el texto del botón
-  if ($(this).text() === "Ver más") {
-    $(this).text("Ver menos");
-  } else {
-    $(this).text("Ver más");
-  }
+  // Alternar la visibilidad del contenido
+  moreContent.slideToggle(function() {
+    // Cambiar el texto del botón después de que la animación haya terminado
+    if (moreContent.is(":visible")) {
+      $button.text("Ver menos");
+    } else {
+      $button.text("Ver más");
+    }
+  });
 });
+
+

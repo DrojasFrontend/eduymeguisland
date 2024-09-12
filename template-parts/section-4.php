@@ -35,15 +35,22 @@ $gallery = [
                 <p class="font--baca heading--64 color--333" style="line-height: 64px">our love story</p>
                 <div class="space space--10"></div>
                 <p class="font--bosque heading--18 color--000 load-more">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet maximus ante. Morbi at lacus ipsum. In id nunc consequat, bibendum eros eget, porta est. Nunc pretium auctor faucibus. Morbi elementum, augue vel scelerisque blandit, ex felis auctor urna, eget consequat felis mauris quis massa.
+                En una noche de enero en Cartagena, Eduardo y Megumi se conocieron en un encuentro improbable, parecía que la vida había jugado traviesamente con ellos hasta encontrarlos, quién diría que un shot de tequila y un “usame” darían inicio a esta historia de amor
+
                 </p>
                 <div class="space space--20"></div>
                 <p class="font--bosque heading--18 color--000 load-more more-content" style="display: none">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet maximus ante. Morbi at lacus ipsum. In id nunc consequat, bibendum eros eget, porta est. Nunc pretium auctor faucibus. Morbi elementum, augue vel scelerisque blandit, ex felis auctor urna, eget consequat felis mauris quis massa.
+                5 días fueron suficientes para decidir construir una relación a distancia, entre aviones y calendarios pasaron los años construyendo sueños juntos y separados, la distancia en esta historia no fue villana y aunque parecía que estar juntos no se daría la vida volvió a hacer de las suyas mostrándoles una salida.
+
+                </p>
+                <div class="space space--20"></div>
+                <p class="font--bosque heading--18 color--000 load-more more-content" style="display: none">
+                Hoy nuevamente en Cartagena después de 9 años de travesía, agradecidos con los azares de la vida, son ellos quienes deciden estar juntos y formar una familia.
+
                 </p>
                 <div class="space space--20"></div>
                 <button class="button button--primary button--center" type="button" data-toggle-more>
-                    LEER MÁS
+                Ver más
                 </button>
 
                 <div class="space space--50"></div>
@@ -78,7 +85,7 @@ $gallery = [
     
                     <h2 class="heading--32 color--A98417">VESTIMENTA</h2>
                     <p class="font--baca heading--32 color--666">dress code</p>
-                    <img class="" src="<?php echo IMG_BASE . 'dress-code.png'?>" alt="">
+                    <img class="" src="<?php echo IMG_BASE . 'vestimenta-2.png'?>" alt="">
                     <div class="space space--5"></div>
                     <button type="button" class="button button--primary button--center" data-open-modal="modal-3">SEMI-FORMAL</button>
                 </div>
@@ -103,7 +110,7 @@ $gallery = [
     
                     <h2 class="heading--32 color--A98417">VESTIMENTA</h2>
                     <p class="font--baca heading--32 color--666">dress code</p>
-                    <img class="" src="<?php echo IMG_BASE . 'dress-code.png'?>" alt="">
+                    <img class="" src="<?php echo IMG_BASE . 'vestimenta-3.png'?>" alt="">
                     <div class="space space--5"></div>
                     <button type="button" class="button button--primary button--center" data-open-modal="modal-4">TEQUILA SUNSET</button>
                 </div>
