@@ -32,7 +32,7 @@
         ?>
         </button>
         <img
-          src="<?php echo IMG_BASE . 'formal-white.webp' ?>"
+          src="<?php echo IMG_BASE . 'gifts-megumi-eduardo.webp' ?>"
           alt=""
           id=""
         />

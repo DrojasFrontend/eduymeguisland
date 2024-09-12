@@ -13,9 +13,9 @@
         <?php echo do_shortcode('[contact-form-7 id="c65ad8b" title="R.S.V.P"]')?>
 
         <div class="sectionRsvp__info">
-            <p class="heading--14">MORe INFORMATiON / Más Información</p>
+            <p class="heading--14">MORe INFORMATiON Más Información</p>
             <div class="space space--10"></div>
-            <p class="heading--14">pendiente/ rsvp@eduymeguisland.com</p>
+            <p class="heading--14">rsvp@eduymeguisland.com</p>
         </div>
     </div>
 </section>

@@ -11,7 +11,7 @@
             <p class="heading--32 color--000"style="line-height: normal">CASA 1537</p>
             <p class="heading--32 color--000" style="line-height: normal">Cartagena, Colombia</p>
             <div class="space space--30"></div>
-            <a href="" class="button button--primary button--center">UBICACIÓN</a>
+            <a href="https://maps.app.goo.gl/PJRTciPqRvLuzHpY7" target="_blank" class="button button--primary button--center">UBICACIÓN</a>
             <div class="space space--50"></div>
             <h2 class="heading--36 color--A98417 stroke--width-5">VESTIMENTA</h2>
             <p class="font--baca heading--40 color--333">dress code</p>
